@@ -42,7 +42,6 @@ A simplified clone of Google Pay, allowing users to log in, transfer money, hand
 
 ## Folder Structure
 
-```plaintext
 node_project/
 ├── src/
 │   ├── controllers/
